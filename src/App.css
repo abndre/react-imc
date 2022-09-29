@@ -22,6 +22,10 @@ button{
 
 .calc {
   display: block;
-  background-color: #572328;
+  background-color: #546ca0;
 
+}
+
+.title{
+  color:antiquewhite
 }
